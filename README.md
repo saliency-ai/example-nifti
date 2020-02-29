@@ -1,3 +1,5 @@
 # example-nifti
 
-`python test.py [login] [password] example.nii.gz`
+```
+python test.py [login] [password] example.nii.gz
+```
